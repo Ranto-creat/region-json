@@ -1,139 +1,116 @@
 [
     {
         "region": "Analamanga",
-        "capitale": "Antananarivo",
         "latitude": -18.8792,
         "longitude": 47.5079
     },
     {
         "region": "Bongolava",
-        "capitale": "Tsiroanomandidy",
         "latitude": -18.7699,
         "longitude": 46.0460
     },
     {
         "region": "Itasy",
-        "capitale": "Miarinarivo",
         "latitude": -18.9234,
         "longitude": 46.5422
     },
     {
         "region": "Vakinankaratra",
-        "capitale": "Antsirabe",
         "latitude": -19.8659,
         "longitude": 47.0333
     },
     {
         "region": "Amoron'i Mania",
-        "capitale": "Ambositra",
         "latitude": -20.5172,
         "longitude": 47.2432
     },
     {
         "region": "Haute Matsiatra",
-        "capitale": "Fianarantsoa",
         "latitude": -21.4527,
         "longitude": 47.0853
     },
     {
         "region": "Vatovavy Fitovinany",
-        "capitale": "Manakara",
         "latitude": -22.1458,
         "longitude": 48.0144
     },
     {
         "region": "Atsinanana",
-        "capitale": "Toamasina",
         "latitude": -18.1496,
         "longitude": 49.4023
     },
     {
         "region": "Alaotra-Mangoro",
-        "capitale": "Ambatondrazaka",
         "latitude": -17.8321,
         "longitude": 48.4164
     },
     {
         "region": "Analanjirofo",
-        "capitale": "Fenoarivo Atsinanana",
         "latitude": -17.3814,
         "longitude": 49.4125
     },
     {
         "region": "Boeny",
-        "capitale": "Mahajanga",
         "latitude": -15.7167,
         "longitude": 46.3167
     },
     {
         "region": "Betsiboka",
-        "capitale": "Maevatanana",
         "latitude": -16.9500,
         "longitude": 46.8333
     },
     {
         "region": "Sofia",
-        "capitale": "Antsohihy",
         "latitude": -14.8667,
         "longitude": 47.9833
     },
     {
         "region": "Diana",
-        "capitale": "Antsiranana",
         "latitude": -12.2833,
         "longitude": 49.3000
     },
     {
         "region": "Sava",
-        "capitale": "Sambava",
         "latitude": -14.2667,
         "longitude": 50.1667
     },
     {
         "region": "Menabe",
-        "capitale": "Morondava",
         "latitude": -20.2833,
         "longitude": 44.2833
     },
     {
         "region": "Melaky",
-        "capitale": "Maintirano",
         "latitude": -18.0529,
         "longitude": 44.0333
     },
     {
         "region": "Atsimo-Andrefana",
-        "capitale": "Toliara",
         "latitude": -23.3500,
         "longitude": 43.6667
     },
     {
         "region": "Androy",
-        "capitale": "Ambovombe",
         "latitude": -25.1667,
         "longitude": 46.0833
     },
     {
         "region": "Anosy",
-        "capitale": "Tôlanaro",
         "latitude": -25.0314,
         "longitude": 46.9959
     },
     {
         "region": "Ihorombe",
-        "capitale": "Ihosy",
         "latitude": -22.4000,
         "longitude": 46.1167
     },
     {
         "region": "Atsimo-Atsinanana",
-        "capitale": "Farafangana",
         "latitude": -22.8167,
         "longitude": 47.8333
     },
     {
         "region": "Sud-Est",
-        "capitale": "Vangaindrano",
         "latitude": -23.3472,
         "longitude": 47.5975
     }
